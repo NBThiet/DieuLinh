@@ -1,0 +1,15 @@
+D:\Document\Course\C#\DieuLinh\Bai4\bin\Debug\net6.0\Bai4.exe
+D:\Document\Course\C#\DieuLinh\Bai4\bin\Debug\net6.0\Bai4.deps.json
+D:\Document\Course\C#\DieuLinh\Bai4\bin\Debug\net6.0\Bai4.runtimeconfig.json
+D:\Document\Course\C#\DieuLinh\Bai4\bin\Debug\net6.0\Bai4.dll
+D:\Document\Course\C#\DieuLinh\Bai4\bin\Debug\net6.0\Bai4.pdb
+D:\Document\Course\C#\DieuLinh\Bai4\obj\Debug\net6.0\Bai4.csproj.AssemblyReference.cache
+D:\Document\Course\C#\DieuLinh\Bai4\obj\Debug\net6.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\Course\C#\DieuLinh\Bai4\obj\Debug\net6.0\Bai4.AssemblyInfoInputs.cache
+D:\Document\Course\C#\DieuLinh\Bai4\obj\Debug\net6.0\Bai4.AssemblyInfo.cs
+D:\Document\Course\C#\DieuLinh\Bai4\obj\Debug\net6.0\Bai4.csproj.CoreCompileInputs.cache
+D:\Document\Course\C#\DieuLinh\Bai4\obj\Debug\net6.0\Bai4.dll
+D:\Document\Course\C#\DieuLinh\Bai4\obj\Debug\net6.0\refint\Bai4.dll
+D:\Document\Course\C#\DieuLinh\Bai4\obj\Debug\net6.0\Bai4.pdb
+D:\Document\Course\C#\DieuLinh\Bai4\obj\Debug\net6.0\Bai4.genruntimeconfig.cache
+D:\Document\Course\C#\DieuLinh\Bai4\obj\Debug\net6.0\ref\Bai4.dll
